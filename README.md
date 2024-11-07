@@ -95,7 +95,6 @@ Work the ticket to completion as john  ![image](https://github.com/user-attachme
 
 ________________________________________
 
+<h2>Takeaways and Key Skills Developed</h2>
 
-Explain ticket intake IRL:
-Sometimes tickets get created via phone, chat app, email, web form, or maybe even you run into someone in your hall or they roll up on you at your desk.
-A lot of the time people will randomize you and try to get you to fix stuff on the spot. It’s fine to fix things on the spot, but generally speaking, you want to create tickets for EVERYTHING you do. (metrics are important)
+In this project, I demonstrated the ticket lifecycle in osTicket by creating and resolving tickets as both an end-user and a help desk agent. I set ticket properties such as priority, department, and SLA, then worked through each stage of the lifecycle, including intake, assignment, communication, and resolution. This hands-on experience helped me understand the full process of ticket management and the roles and permissions within osTicket.
