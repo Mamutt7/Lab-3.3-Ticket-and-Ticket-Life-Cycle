@@ -1,6 +1,28 @@
-# Lab-3.3-Ticket-and-Ticket-Life-Cycle
-In this home lab, I will demonstrate the Ticket and Ticket Life Cycle using osTicket. I will perform some made up scenarios as both end-user and the agent working tickets till resolved.
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
 
+<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+I will demonstrate the Ticket and Ticket Life Cycle in this home lab using osTicket. I will perform some made-up scenarios as both the end-user and the agent working tickets till resolved.<br />
+
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Internet Information Services (IIS)
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10</b> (21H2)
+
+<h2>Ticket Lifecycle Stages</h2>
+
+- Intake
+- Assignment and Communication
+- Working the Issue
+- Resolution
+
+<h2>Lifecycle Stages</h2>
 
 Admin/Analyst Login Page:
 http://localhost/osTicket/scp/login.php 
